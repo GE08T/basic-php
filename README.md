@@ -18,4 +18,4 @@ git clone https://github.com/GE08T/basic-php/
 ```
 </br>Or Download Manually with .zip File
 
-You can Run this Like PHP Usually
+You can Run this with Xampp like Usually 
