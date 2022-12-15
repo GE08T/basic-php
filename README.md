@@ -14,7 +14,7 @@ I Learn this from Youtube Video
 Install this using GIT :
 
 ```
-git clone https://github.com/GE08T/basic-php/
+$ git clone https://github.com/GE08T/basic-php/
 ```
 </br>Or Download Manually with .zip File
 
